@@ -8,13 +8,13 @@ Each project includes:
 - 📄 Project documentation
 - 📊 Business insights
 ## 🧠 Skills & Tools Used
-Languages & Libraries
+#### Languages & Libraries
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - Data Analytics & BI Tools
 - Power BI
 - Excel
 - SQL
-Concepts
+#### Concepts
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
