@@ -7,7 +7,7 @@ Each project includes:
 - 📈 Dashboards & visualizations
 - 📄 Project documentation
 - 📊 Business insights
-# 🧠 Skills & Tools Used
+## 🧠 Skills & Tools Used
 ** Languages & Libraries**
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - Data Analytics & BI Tools
@@ -20,12 +20,12 @@ Each project includes:
 - Feature Engineering
 - Data Visualization
 - Dashboarding
-# 🎯 Purpose of This Repository
+## 🎯 Purpose of This Repository
 - This repository is created to:
 - Build a strong data analytics portfolio
 - Practice real-world data problems
 - Apply theoretical knowledge into projects
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 I am an aspiring Data Analyst passionate about:
 - Data storytelling
 - Dashboard building
