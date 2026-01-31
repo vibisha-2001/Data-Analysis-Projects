@@ -21,7 +21,7 @@ Concepts
 - Data Visualization
 - Dashboarding
 ## 🎯 Purpose of This Repository
-- This repository is created to:
+ This repository is created to:
 - Build a strong data analytics portfolio
 - Practice real-world data problems
 - Apply theoretical knowledge into projects
