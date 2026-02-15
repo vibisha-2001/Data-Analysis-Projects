@@ -26,5 +26,4 @@ The objective was to transform raw HR data into actionable business insights tha
 ## Tools Used
 Power BI | Python | Pandas | Matplotlib | Seaborn | Excel
 
-![Dashboard Screenshot](dashboard_preview.png)
 
