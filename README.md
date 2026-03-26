@@ -31,5 +31,5 @@ I am an aspiring Data Analyst passionate about:
 - Dashboard building
 - Business intelligence
 - Turning raw data into meaningful insights
-🔹 Skills: Python | Power BI | SQL | Excel | Data Analytics
+### 🔹Skills: Python | Power BI | SQL | Excel | Data Analytics
 
